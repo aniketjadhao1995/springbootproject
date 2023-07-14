@@ -1,6 +1,6 @@
 # springbootproject
 
-Endpoint 1: POST – http://localhost:8082/employees - 
+Endpoint 1: POST – http://localhost:8082/employees
 Working - Adds new employee in database with details
 Request Body example - 
 {
